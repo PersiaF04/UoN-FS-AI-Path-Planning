@@ -1,5 +1,5 @@
-variables:
-  DEPENDENCIES: eufs/infrastructure_group/eufs_msgs
+variables: 
+  DEPENDENCIES:
 
 include:
   - project: 'eufs/infrastructure_group/eufs_ci'
